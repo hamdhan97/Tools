@@ -38,7 +38,7 @@ echo
 echo $tes"╔════════════════════════════════════════════════╗"
 echo $tes"║ $kuni» $red Author$w   : $cyan Muhamad Hamdan Sobirin                    $w  ║"
 echo $tes"║ $kuni» $red Facebook$w : $cyan Muhamad Hamdan Sobirin                    $w  ║"
-echo $tes"║ $kuni» $red Github$w   : $g https://github.com/hamdhan97     $w ║"
+echo $tes"║ $kuni» $red WHATSAPP$w   : $g 0856-4221-5238     $w ║"
 echo $tes"╚════════════════════════════════════════════════╝"$w
 echo ""
 sleep 0.8
